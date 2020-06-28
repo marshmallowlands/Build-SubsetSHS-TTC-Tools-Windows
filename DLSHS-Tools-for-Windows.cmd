@@ -1,7 +1,7 @@
 @echo off
 @chcp 65001
 cls
-echo 作者：Marshmallowlands（Mohandar），博客地址https://marshmallowlands.github.io
+echo 作者：Marshmallowlands（Joker），博客地址https://marshmallowlands.github.io
 echo 欢迎使用合并思源黑体脚本该脚本是全自动脚本工具，不需要人为干预，如果有问题欢迎提出，按任意键开始
 pause>nul
 cls
